@@ -3,6 +3,9 @@
 The project was carried out in collaboration with [Francesca Russo](https://github.com/frarus).  
 Score of the project: 17.5/18
 
+## Known issues
+Known issues that won't be fixed but future students may want to check out are available [here](https://github.com/claudiotancredi/Machine-learning-and-pattern-recognition/issues/1).
+
 ## Requirements
 
 |Tool|Version|
