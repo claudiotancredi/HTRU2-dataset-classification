@@ -1,4 +1,4 @@
-# Machine learning and pattern recognition
+# HTRU2 dataset classification
 "Machine learning and pattern recognition" labs & project @ Politecnico di Torino, a.y. 2020/2021.  
 The project was carried out in collaboration with [Francesca Russo](https://github.com/frarus).  
 Score of the project: 17.5/18
